@@ -1,0 +1,30 @@
+{
+  "name": "express-debug-async-wrap",
+  "version": "1.0.0",
+  "description": "express async wrapper that passes custom debug instance and returns 400 as default error code",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && nyc ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoRBaquero/express-debug-async-wrap.git"
+  },
+  "keywords": [
+    "express",
+    "expressjs",
+    "async",
+    "wrapper",
+    "wrap",
+    "debug",
+    "log",
+    "logger",
+    "logging"
+  ],
+  "author": "Diego Rodríguez Baquero <diegorbaquero@gmail.com> (https://diegorbaquero.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DiegoRBaquero/express-debug-async-wrap/issues"
+  },
+  "homepage": "https://github.com/DiegoRBaquero/express-debug-async-wrap#readme"
+}
