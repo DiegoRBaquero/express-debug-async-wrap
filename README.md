@@ -35,7 +35,6 @@ module.exports = router
 - [express-sequelize-crud-router](https://github.com/DiegoRBaquero/express-sequelize-crud-router)
 - [sequelize-express-findbyid](https://github.com/DiegoRBaquero/sequelize-express-findbyid)
 
-
 ## License
 
 MIT Copyright © [Diego Rodríguez Baquero](https://diegorbaquero.com)
