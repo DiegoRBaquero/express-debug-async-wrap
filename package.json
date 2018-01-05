@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/DiegoRBaquero/express-debug-async-wrap/issues"
   },
-  "homepage": "https://github.com/DiegoRBaquero/express-debug-async-wrap#readme"
+  "homepage": "https://github.com/DiegoRBaquero/express-debug-async-wrap#readme",
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
 }
