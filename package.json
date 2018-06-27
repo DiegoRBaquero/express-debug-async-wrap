@@ -4,7 +4,7 @@
   "description": "express async wrapper that passes custom debug instance and returns 400 as default error code",
   "main": "index.js",
   "scripts": {
-    "test": "standard && nyc ava"
+    "test": "standard"
   },
   "repository": {
     "type": "git",
@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/DiegoRBaquero/express-debug-async-wrap#readme",
   "devDependencies": {
-    "standard": "^10.0.3"
+    "standard": "^11.0.1"
   }
 }
