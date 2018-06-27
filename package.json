@@ -1,6 +1,6 @@
 {
   "name": "express-debug-async-wrap",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "express async wrapper that passes custom debug instance and returns 400 as default error code",
   "main": "index.js",
   "scripts": {
