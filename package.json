@@ -1,6 +1,6 @@
 {
   "name": "express-debug-async-wrap",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "express async wrapper that passes custom debug instance or logging function",
   "main": "index.js",
   "scripts": {
